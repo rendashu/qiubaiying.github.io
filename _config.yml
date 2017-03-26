@@ -91,7 +91,7 @@ service-worker: true
 friends: [
     {
         title: "简书·iOS巍”,
-        href: "http://www.jianshu.com/u/83b2d92d89ee"
+        href: "https://www.jianshu.com/u/83b2d92d89ee"
     },{
         title: "简书·iOS任大树",
         href: "http://www.jianshu.com/u/48f397acdef5"
