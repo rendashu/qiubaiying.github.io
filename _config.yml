@@ -90,7 +90,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·iOS姚巍”,
+        title: "简书·iOS巍”,
         href: "http://www.jianshu.com/u/83b2d92d89ee"
     },{
         title: "简书·iOS任大树",
