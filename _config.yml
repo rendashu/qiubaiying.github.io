@@ -1,6 +1,6 @@
 # Site settings
-title: rendashu Blog
-SEOTitle: 任大树的博客 | BY Blog
+title: Rendashu Blog
+SEOTitle: 任大树的博客 | Rendashu Blog
 header-img: img/post-bg-desk.png
 email: zornhuang@126.com
 description: "愿你的生命中有够多的云翳,来造成一个美丽的黄昏。"
@@ -53,10 +53,10 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+#disqus_username: 任大树
 
 # Duoshuo settings
-#duoshuo_username: qiubaiying
+#duoshuo_username: 任大树
 # Share component is depend on Comment so we can NOT use share only.
 #duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -65,11 +65,11 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: bac10617ecaff28ca9dfe5979345613d
 
 # Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: auto
+ga_track_id: 'UA-96204254-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 
 
@@ -93,6 +93,9 @@ friends: [
         title: "简书·iOS巍",
         href: "http://www.jianshu.com/u/83b2d92d89ee"
     },{
+        title: "简书·远0",
+        href: "http://www.jianshu.com/u/7528ec828db6"
+        },{
         title: "简书·iOS任大树",
         href: "http://www.jianshu.com/u/48f397acdef5"
     },{
